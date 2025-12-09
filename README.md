@@ -28,7 +28,7 @@ Dataset Source : https://huggingface.co/datasets/mteb/amazon_polarity
 | -------------------------------- | --------------|------------------------------------------------------------------------|
 | *Sabrina Ronnie George Karippat* | 8991911       | Model 1 (TF-IDF + Naive Bayes), preprocessing, TF-IDF, repo management |
 | *Jose George*                    | 9082825       | Model 2 (SVD + Logistic Regression)                                    |
-| *Aiswarya Thekkuveettil*         | 8993970       | Model 3 (PCA + Logistic Regression)                                    |
+| *Aiswarya Thekkuveettil Thazhath*         | 8993970       | Model 3 (PCA + Logistic Regression)                                    |
 
 ### **Project Structure**
 
