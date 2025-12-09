@@ -100,9 +100,9 @@ venv_textclf\Scripts\activate        # Windows
 A combined metric table is generated:
 | Model                | Accuracy | Precision | Recall | F1-Score |
 | -------------------- | -------- | --------- | ------ | -------- |
-| TF-IDF + Naive Bayes | ~0.834   | ~0.846    | ~0.818 | ~0.832   |
-| SVD + LR             | ~0.802   | ~0.814    | ~0.782 | ~0.798   |
-| PCA + LR             | ~0.790   | ~0.794    | ~0.784 | ~0.789   |
+| TF-IDF + Naive Bayes |  0.834   |  0.846    |  0.818 |  0.832   |
+| SVD + LR             |  0.802   |  0.814    |  0.782 |  0.798   |
+| PCA + LR             |  0.790   |  0.794    |  0.784 |  0.789   |
 
 A side-by-side confusion matrix visualization compares error patterns across all models.
 
