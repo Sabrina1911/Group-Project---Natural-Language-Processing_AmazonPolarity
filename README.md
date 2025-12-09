@@ -3,6 +3,8 @@
 ### **Amazon Polarity Dataset (5000-row Balanced Subset)**
 #### **Project Overview**
 This project performs binary sentiment classification on a balanced subset of the Amazon Polarity dataset using three different machine learning approaches:
+Dataset Source : https://huggingface.co/datasets/mteb/amazon_polarity
+
    - Model 1 — TF-IDF + Naive Bayes (Baseline)
    - Model 2 — TF-IDF → SVD (100 components) → Logistic Regression
    - Model 3 — TF-IDF → PCA (100 components) → Logistic Regression
@@ -138,3 +140,8 @@ datasets   # HuggingFace
      * Side-by-side visualization
 
 ## *Best model: TF-IDF + Naive Bayes (Accuracy 83.44%, F1-score 83.16%).*
+
+
+Reference:
+
+Massive Text Embedding Benchmark (MTEB). (n.d.). amazon_polarity [Dataset]. Hugging Face. Retrieved December 9, 2025, from https://huggingface.co/datasets/mteb/amazon_polarity.
